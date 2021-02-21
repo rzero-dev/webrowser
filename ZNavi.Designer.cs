@@ -60,6 +60,9 @@ namespace ZNavi
             // 
             // nav
             // 
+            this.nav.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.nav.Location = new System.Drawing.Point(12, 42);
             this.nav.MinimumSize = new System.Drawing.Size(20, 20);
             this.nav.Name = "nav";
@@ -119,9 +122,7 @@ namespace ZNavi
             this.tbxUrl.Name = "tbxUrl";
             this.tbxUrl.Size = new System.Drawing.Size(626, 13);
             this.tbxUrl.TabIndex = 6;
-            this.tbxUrl.Enter += new System.EventHandler(this.tbxUrl_Enter);
             this.tbxUrl.KeyDown += new System.Windows.Forms.KeyEventHandler(this.tbxUrl_KeyDown);
-            this.tbxUrl.Leave += new System.EventHandler(this.tbxUrl_Leave);
             // 
             // pbxUrl
             // 
@@ -162,6 +163,7 @@ namespace ZNavi
             this.Controls.Add(this.pbxUrl);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ZNavi";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ZNavi";
             this.Load += new System.EventHandler(this.ZNavi_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbxRecargar)).EndInit();
