@@ -1,0 +1,10 @@
+C:\Users\Roosvelt\source\repos\ZNavi\bin\Debug\ZNavi.exe.config
+C:\Users\Roosvelt\source\repos\ZNavi\bin\Debug\ZNavi.exe
+C:\Users\Roosvelt\source\repos\ZNavi\bin\Debug\ZNavi.pdb
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.csprojAssemblyReference.cache
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.ZNavi.resources
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.Properties.Resources.resources
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.csproj.GenerateResource.cache
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.csproj.CoreCompileInputs.cache
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.exe
+C:\Users\Roosvelt\source\repos\ZNavi\obj\Debug\ZNavi.pdb
